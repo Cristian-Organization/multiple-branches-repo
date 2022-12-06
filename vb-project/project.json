@@ -1,6 +1,6 @@
 {
   "name": "Visual Basic Project",
-  "description": "Test process to test out the pipeline [Modified1]",
+  "description": "Test process to test out the pipeline [Modified2]",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
@@ -50,7 +50,7 @@
       "output": []
     }
   ],
-  "isTemplate": false,
+  "isTemplate": true,
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Portable"
