@@ -50,8 +50,9 @@
       "output": []
     }
   ],
-  "isTemplate": false,
+  "isTemplate": true,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Portable"
+  "targetFramework": "Portable",
+  "automationHubIdeaUrl": "www.placeholder.com"
 }
