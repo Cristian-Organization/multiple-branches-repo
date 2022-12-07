@@ -1,6 +1,6 @@
 {
   "name": "Visual Basic Project",
-  "description": "Test process to test out the pipeline [Modified2]",
+  "description": "Test process to test out the pipeline [Moodified2]",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
