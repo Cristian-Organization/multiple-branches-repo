@@ -1,6 +1,6 @@
 {
   "name": "CSharp Project",
-  "description": "Blank Processss",
+  "description": "Blank Processss [M]",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
@@ -41,7 +41,7 @@
     "fileInfoCollection": [],
     "modernBehavior": false
   },
-  "expressionLanguage": "CSharp",
+  "expressionLanguage": "CSharp [M]",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
@@ -53,6 +53,6 @@
   "isTemplate": true,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Portable",
+  "targetFramework": "Portable [M]",
   "automationHubIdeaUrl": "www.placeholder.com"
 }
