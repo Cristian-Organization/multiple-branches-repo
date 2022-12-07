@@ -41,7 +41,7 @@
     "fileInfoCollection": [],
     "modernBehavior": false
   },
-  "expressionLanguage": "CSharp [M]",
+  "expressionLanguage": "CSharp",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
@@ -53,6 +53,6 @@
   "isTemplate": true,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Portable [M]",
+  "targetFramework": "Portable",
   "automationHubIdeaUrl": "www.placeholder.com"
 }
