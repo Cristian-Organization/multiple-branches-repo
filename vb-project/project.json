@@ -53,5 +53,6 @@
   "isTemplate": true,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Portable"
+  "targetFramework": "Portable",
+  "automationHubIdeaUrl": "www.cstest.com"
 }
