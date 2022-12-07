@@ -1,6 +1,6 @@
 {
   "name": "CSharp Project",
-  "description": "Blank Process [Modified23]",
+  "description": "Blank Process [Modified223]",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
