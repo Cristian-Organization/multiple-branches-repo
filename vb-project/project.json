@@ -1,6 +1,6 @@
 {
-  "name": "Visual Basic Project",
-  "description": "Test process to test out the pipelineaa",
+  "name": "Visual Basic Projectz",
+  "description": "Test process to test out the pipelineaaz",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
@@ -41,7 +41,7 @@
     "fileInfoCollection": [],
     "modernBehavior": true
   },
-  "expressionLanguage": "VisualBasic",
+  "expressionLanguage": "CSharp",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
@@ -54,5 +54,5 @@
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Portable",
-  "automationHubIdeaUrl": "www.cstest.comz"
+  "automationHubIdeaUrl": "www.cstest.comzz"
 }
