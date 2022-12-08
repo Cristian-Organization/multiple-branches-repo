@@ -1,5 +1,5 @@
 {
-  "name": "Visual Basic Project [M]",
+  "name": "Visual Basic Project",
   "description": "Test process to test out the pipeline",
   "main": "Main.xaml",
   "dependencies": {
@@ -54,5 +54,5 @@
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Portable",
-  "automationHubIdeaUrl": "www.cstestz.com"
+  "automationHubIdeaUrl": "www.cstest.com"
 }
