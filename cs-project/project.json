@@ -1,6 +1,6 @@
 {
   "name": "CSharp Project",
-  "description": "Blank Processss [M]",
+  "description": "Blank Processss [M]z",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
@@ -50,9 +50,9 @@
       "output": []
     }
   ],
-  "isTemplate": true,
+  "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Portable",
-  "automationHubIdeaUrl": "www.placeholderz.com"
+  "automationHubIdeaUrl": "www.placeholder.com"
 }
