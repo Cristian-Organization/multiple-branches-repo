@@ -1,6 +1,6 @@
 {
   "name": "Visual Basic Project",
-  "description": "Test process to test out the pipeline",
+  "description": "Test process to test out the pipelineaa",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
@@ -50,9 +50,9 @@
       "output": []
     }
   ],
-  "isTemplate": true,
+  "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Portable",
-  "automationHubIdeaUrl": "www.cstest.com"
+  "automationHubIdeaUrl": "www.cstest.comz"
 }
